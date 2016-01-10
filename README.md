@@ -1,4 +1,4 @@
 # IndexableRecyclerView
 RecyclerView  add letters Navigation
 
-![image](https://github.com/scp504677840/GuaGuaKa/blob/master/GuaGuaKaForEasyDrawingBoard/GuaGuaKaForEasyDrawingBoard.png)
+![image](https://github.com/scp504677840/IndexableRecyclerView/blob/master/Demo-EN.gif)
