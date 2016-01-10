@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
         mItems.add("Catching Fire (The Second Book of the Hunger Games)");
         mItems.add("Elder Scrolls V: Skyrim: Prima Official Game Guide");
         mItems.add("Death Comes to Pemberley");
+        //字母排序
         Collections.sort(mItems);
     }
 
